@@ -53,7 +53,7 @@
             {
               "id": "comment",
               "type": "text",
-              "name": "Comments",
+              "name": "Comment",
               "width": 2,
               "height": 4,
               "maxLength": 5000
